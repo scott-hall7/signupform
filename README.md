@@ -1,0 +1,1 @@
+The goal of the project it to copy a sign up form from The Odin Project.
